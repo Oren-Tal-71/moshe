@@ -16,6 +16,6 @@ These are bulletes:
   - sub 2
 - last
 
-This is [a link to google](www.google.com)
+This is [a link to google](https://www.google.com)
 
 
