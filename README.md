@@ -1,2 +1,2 @@
-This is the famoud **moshe** repository.  
+This is the famous **moshe** repository.  
 Do you like it?
